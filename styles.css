@@ -13,7 +13,7 @@
 .nav{
     width:100%;
     height:80px;
-    background:silver;
+    background:tomato;
 }
 ul{
     display:flex;
@@ -25,7 +25,7 @@ ul{
 
 ul a{
     text-decoration: none;
-    color:#333;
+    color:white;
     font-size: 20px;
     font-weight: bold;
     margin:12px;
@@ -74,7 +74,7 @@ img{
 .footer{
     width:100%;
     height:80px;
-    background-color: silver;
+    background-color:tomato;
     position:relative;
     top:90px;
 }
@@ -83,4 +83,7 @@ img{
     text-align: center;
     position:relative;
     top:30px;
+    color:white;
+    font-size:18px;
+    letter-spacing: 2px;
 }
